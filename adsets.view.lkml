@@ -1,5 +1,5 @@
 view: adsets {
-  sql_table_name: facebook_data.facebook_adsets_101441173373823 ;;
+  sql_table_name: FACEBOOK_ADVERTISING.ADSETS ;;
 
   dimension: id {
     primary_key: yes

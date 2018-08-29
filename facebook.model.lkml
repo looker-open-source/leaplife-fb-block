@@ -1,4 +1,4 @@
-connection: "facebook_data"
+connection: "leaplife_snowflake"
 
 # include all the views
 include: "*.view"
